@@ -54,7 +54,7 @@ PDFConverter/
 
 2. **Convert and Download**
    - Click the conversion button
-   - Download your protected PDF file
+   - Download your PDF file
   
 
 ## 🌟 Future Enhancements
