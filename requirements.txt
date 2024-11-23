@@ -1,0 +1,6 @@
+io
+os
+streamlit
+python-docx
+Spire.Doc
+plum-dispatch==1.7.4
