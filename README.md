@@ -1,4 +1,4 @@
-# DOCX to PDF Converter with Password Protection
+# DOCX to PDF Converter
 
 A secure and user-friendly Streamlit application that converts `.docx` files  PDF documents. This tool provides a seamless interface for document conversion while offering metadata visualization.
 
